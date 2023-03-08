@@ -11,7 +11,9 @@ function Verificar() {
     var idade = anoAtual - Number(anoNasc.value)
     var imagem = window.document.createElement('img')
     imagem.setAttribute('id','foto')
-    if (sexo[0].checked ? genero = 'Homem' : genero = 'Mulher') {
+    if (sexo[0].checked) {
+        genero = 'Homem'
+
       if (idade >= 0 && idade < 10) {
         //Criança
         imagem.setAttribute('src', 'crianca-homem.jpg')
@@ -25,18 +27,23 @@ function Verificar() {
         //Idoso
         imagem.setAttribute('src', 'idoso-homem.jpg')
       }
-    } else {
+    } else if(sexo[1].checked) {
+        genero = 'Mulher'
       if (idade >= 0 && idade < 10) {
         //Criança
+        imagem.setAttribute('src', 'crianca-mulher.jpg')
       } else if (idade < 21) {
         //Jovem
+        imagem.setAttribute('src', 'jovem-mulher.jpg')
       } else if (idade < 50) {
         //Adulto
+        imagem.setAttribute('src', 'mulher-adulta.jpg')
       } else if(idade > 50) {
         //Idoso
+        imagem.setAttribute('src', 'mulher-idosa.jpg')
       }
     }
-    resposta.innerHTML = `Sua idade é: <strong>${idade} anos</strong> <br> Seu gênero é ${genero}`
-    resposta.appendChild(imagem).style.margin = '15px 0px'
   }
+  resposta.innerHTML = `Sua idade é: <strong>${idade} anos</strong> <br>Seu gênero é ${genero}<br>`
+  resposta.appendChild(imagem).style = 'margin-top: 15px'
 }
