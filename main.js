@@ -3,8 +3,8 @@ function Verificar() {
   var anoAtual = data.getFullYear()
   var anoNasc = window.document.getElementById('anonasc')
   var resposta = window.document.getElementById('res')
-  if (anoNasc.value.length == "" || anoNasc.value == 0 || anoNasc.value > anoAtual) {
-    window.alert('[ERRO]') 
+  if (anoNasc.value == isNaN || anoNasc.value.length == "" || anoNasc.value == 0 || anoNasc.value > anoAtual) {
+    window.alert('[ERRO], Verifique os dados e tente novemente') 
   } else {
     var sexo = window.document.getElementsByName('rsex')
     var genero = ''

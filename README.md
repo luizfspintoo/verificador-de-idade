@@ -7,7 +7,7 @@ Desenvolvido para reforçar conceitos de tecnologias web<br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-rodando">Rodando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodando-o-projeto">Rodando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -15,7 +15,6 @@ Desenvolvido para reforçar conceitos de tecnologias web<br/>
 
 <p align="center">
  <img alt="License" src="./.github/priview.png">
- Verificador de idade
 </p>
 
 <br>
@@ -49,8 +48,7 @@ Após a insalação dos programas (Editor de texto, Browser e Git), basta abrir 
 <br><br>
 Depois de concluir este processo de clonagem do projeto, você pode abrir o seu editor de texto (Visual Studio Code ou Sblime Text), dentro do editor ir em "Open folder ou Abrir Pasta (Português)" abrir a pasta onde está o projeto baixado e editar a seu gosto.
 
-<br>
-
-## 🔖 Layout
+## 🔖Layout
 
 Você pode visualizar o projeto rodando através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238).
+
