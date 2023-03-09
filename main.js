@@ -20,7 +20,7 @@ function Verificar() {
       } else if (idade < 21) {
         //Jovem
         imagem.setAttribute('src', 'jovem-homem.jpg')
-      } else if (idade < 50) {
+      } else if (idade < 30) {
         //Adulto
         imagem.setAttribute('src', 'adulto-homem.jpg')
       } else if(idade > 50) {
@@ -32,7 +32,7 @@ function Verificar() {
       if (idade >= 0 && idade < 10) {
         //Criança
         imagem.setAttribute('src', 'crianca-mulher.jpg')
-      } else if (idade < 21) {
+      } else if (idade < 30) {
         //Jovem
         imagem.setAttribute('src', 'jovem-mulher.jpg')
       } else if (idade < 50) {
