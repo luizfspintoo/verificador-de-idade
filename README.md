@@ -51,4 +51,4 @@ Depois de concluir este processo de clonagem do projeto, você pode abrir o seu 
 ## 🔖Layout
 
 Você pode visualizar o projeto rodando através
-<a href="https://clipchamp.com/watch/q9djiJyxxwz" target="_blanck">[DESSE LINK]</a>
+<a href="https://clipchamp.com/watch/q9djiJyxxwz" target="_blank">[DESSE LINK]</a>
