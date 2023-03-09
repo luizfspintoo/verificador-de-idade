@@ -50,9 +50,4 @@ Depois de concluir este processo de clonagem do projeto, você pode abrir o seu 
 
 ## 🔖Layout
 
-Você pode visualizar o projeto rodando através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238).
-
-<<<<<<< HEAD
-=======
-Você pode visualizar o projeto rodando através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238).
->>>>>>> f83fdd424bdf7b0a7edeb5cc86c4dc0b4a30d7dc
+Você pode visualizar o projeto rodando através [DESSE LINK]
