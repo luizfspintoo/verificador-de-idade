@@ -46,9 +46,13 @@ Clonando o projeto:
 Após a insalação dos programas (Editor de texto, Browser e Git), basta abrir seu terminal do Git Bash dentro da pasta onde você deseja realizar o clone e colar o seguinte link no terminal: <br> (VIA HTTPS) https://github.com/luizfspinto/verificador-de-idade.git<br>OU<BR>
 (VIA CHAVE SSH) [git@github.com:luizfspinto/verificador-de-idade.git](git@github.com:luizfspinto/verificador-de-idade.git)
 <br><br>
-Depois de concluir este processo de clonagem do projeto, você pode abrir o seu editor de texto (Visual Studio Code ou Sblime Text), dentro do editor ir em "Open folder ou Abrir Pasta (Português)" abrir a pasta onde está o projeto baixado e editar a seu gosto.
+Depois de concluir este processo de clonagem do projeto, você pode abrir o seu editor de texto (Visual Studio Code ou Sublime Text), dentro do editor ir em "Open folder ou Abrir Pasta (Português)" abrir a pasta onde está o projeto baixado e editar a seu gosto.
 
 ## 🔖Layout
 
 Você pode visualizar o projeto rodando através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238).
 
+<<<<<<< HEAD
+=======
+Você pode visualizar o projeto rodando através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238).
+>>>>>>> f83fdd424bdf7b0a7edeb5cc86c4dc0b4a30d7dc
