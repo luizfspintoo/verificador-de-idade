@@ -3,14 +3,6 @@
 <p align="center">
 Desenvolvido para reforçar conceitos de tecnologias web<br/>
 
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-rodando-o-projeto">Rodando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 <br>
 
 <p align="center">
@@ -23,8 +15,8 @@ Desenvolvido para reforçar conceitos de tecnologias web<br/>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML 
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
 <br>
