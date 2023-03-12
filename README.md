@@ -9,6 +9,8 @@ Desenvolvido para reforçar conceitos de tecnologias web<br/>
  <img alt="License" src="./.github/priview.png">
 </p>
 
+## Demo
+https://luizfspinto.github.io/verificador-de-idade/
 <br>
 
 ## 🚀 Tecnologias
@@ -18,8 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML5
 - CSS3
 - JavaScript
-
-<br>
 
 ## 💻 Projeto
 
@@ -38,8 +38,3 @@ Após a insalação dos programas (Editor de texto, Browser e Git), basta abrir 
 (VIA CHAVE SSH) [git@github.com:luizfspinto/verificador-de-idade.git](git@github.com:luizfspinto/verificador-de-idade.git)
 <br><br>
 
-
-## 🔖Layout
-
-Você pode visualizar o projeto rodando através
-<a href="https://clipchamp.com/watch/q9djiJyxxwz" target="_blank">[DESSE LINK]</a>
