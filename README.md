@@ -10,7 +10,7 @@ Desenvolvido para reforçar conceitos de tecnologias web<br/>
 </p>
 
 ## Demo
-https://verificador.lzfelipe.dev/
+
 <br>
 
 ## 🚀 Tecnologias
